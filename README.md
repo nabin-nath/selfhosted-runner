@@ -1,1 +1,1 @@
-# selfhosted-runner-testing-0.5
+# selfhosted-runner-testing-0.6
